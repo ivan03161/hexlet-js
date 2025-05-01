@@ -1,3 +1,3 @@
-import getLast from "./src/index.js";
+import getLast from './src/index.js'
 
-getLast();
+getLast()
